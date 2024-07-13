@@ -1,9 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-50091b43b8532e80e33e2cd8d410ff5e7b090372 refs/remotes/origin/dependabot/npm_and_yarn/engine.io-and-browser-sync-6.2.1
-02b43e674e4f6c906a9f1576ea5879e8374836d2 refs/remotes/origin/dependabot/npm_and_yarn/glob-parent-5.1.2
-77a97e247cd8ae8073f59957a5a6449c519196f2 refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.21
-6f92bf375d23670acad27470b600c9ccb8e84794 refs/remotes/origin/dependabot/npm_and_yarn/minimist-1.2.6
-a6540a041ef45fb21e3ac7a3402d9032cd5de7e0 refs/remotes/origin/dependabot/npm_and_yarn/moment-2.29.4
-1291e39b723108c084e9c0067f01d4e60c9315d8 refs/remotes/origin/dependabot/npm_and_yarn/socket.io-parser-and-browser-sync-4.2.1
-87b4b3fe12962dfc2465a49506f0123a2968454c refs/remotes/origin/dependabot/npm_and_yarn/ua-parser-js-0.7.33
-21af50e22712068b51622a448ec33e025170c366 refs/remotes/origin/master
